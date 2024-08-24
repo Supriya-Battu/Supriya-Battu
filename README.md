@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Supriya-Battu
 - 👀 I’m interested in ...learning and writing
-- 🌱 I’m currently pursuring doing B-Tech in computer science and engineering
+- 🌱 I’m currently pursuring  B-Tech in computer science and engineering
 - 💞️ I’m looking to learn some coding skills 
 - 📫 How to reach me ...mail me
 
